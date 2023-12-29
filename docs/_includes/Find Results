@@ -1,0 +1,2227 @@
+Searching 2271 files for "Alexander Pierce"
+
+C:\xampp\htdocs\billing\AdminLTE-master\iframe.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index.html:
+  189          </div>
+  190          <div class="info">
+  191:           <a href="#" class="d-block">Alexander Pierce</a>
+  192          </div>
+  193        </div>
+  ...
+  997                    <div class="direct-chat-msg">
+  998                      <div class="direct-chat-infos clearfix">
+  999:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1000                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1001                      </div>
+ ....
+ 1029                    <div class="direct-chat-msg">
+ 1030                      <div class="direct-chat-infos clearfix">
+ 1031:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1032                        <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+ 1033                      </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index2.html:
+  177          </div>
+  178          <div class="info">
+  179:           <a href="#" class="d-block">Alexander Pierce</a>
+  180          </div>
+  181        </div>
+  ...
+ 1138                        <div class="direct-chat-msg">
+ 1139                          <div class="direct-chat-infos clearfix">
+ 1140:                           <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1141                            <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1142                          </div>
+ ....
+ 1170                        <div class="direct-chat-msg">
+ 1171                          <div class="direct-chat-infos clearfix">
+ 1172:                           <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1173                            <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+ 1174                          </div>
+ ....
+ 1338                        <li>
+ 1339                          <img src="dist/img/user1-128x128.jpg" alt="User Image">
+ 1340:                         <a class="users-list-name" href="#">Alexander Pierce</a>
+ 1341                          <span class="users-list-date">Today</span>
+ 1342                        </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index3.html:
+  180          </div>
+  181          <div class="info">
+  182:           <a href="#" class="d-block">Alexander Pierce</a>
+  183          </div>
+  184        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\starter.html:
+  174          </div>
+  175          <div class="info">
+  176:           <a href="#" class="d-block">Alexander Pierce</a>
+  177          </div>
+  178        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\upgrade-guide.md:
+   36    - `<section class="sidebar">` replaced with `<div class="sidebar">`
+   37  4. User Panel
+   38:   - `<div class="user-panel"><div class="pull-left image"><img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image"></div><div class="pull-left info"><p>Alexander Pierce</p><a href="#"><i class="fa fa-circle text-success"></i> Online</a></div></div>` replaced with `<div class="user-panel mt-3 pb-3 mb-3 d-flex"><div class="image"><img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image"></div><div class="info"><a href="#" class="d-block">Alexander Pierce</a></div></div>`
+   39  5. Sidebar Menu
+   40    - `<nav class="mt-2">` now around `<ul class="sidebar-menu" data-widget="tree">`
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\components\direct-chat.md:
+   27            <div class="direct-chat-msg">
+   28              <div class="direct-chat-infos clearfix">
+   29:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+   30                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+   31              </div>
+   ..
+   47            <div class="direct-chat-msg">
+   48              <div class="direct-chat-infos clearfix">
+   49:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+   50                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+   51              </div>
+   ..
+  176            <div class="direct-chat-msg">
+  177              <div class="direct-chat-infos clearfix">
+  178:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  179                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  180              </div>
+  ...
+  196            <div class="direct-chat-msg">
+  197              <div class="direct-chat-infos clearfix">
+  198:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  199                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  200              </div>
+  ...
+  333        <div class="direct-chat-msg">
+  334          <div class="direct-chat-infos clearfix">
+  335:           <span class="direct-chat-name float-left">Alexander Pierce</span>
+  336            <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  337          </div>
+  ...
+  363        <div class="direct-chat-msg">
+  364          <div class="direct-chat-infos clearfix">
+  365:           <span class="direct-chat-name float-left">Alexander Pierce</span>
+  366            <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  367          </div>
+  ...
+  527            <div class="direct-chat-msg">
+  528              <div class="direct-chat-infos clearfix">
+  529:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  530                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  531              </div>
+  ...
+  547            <div class="direct-chat-msg">
+  548              <div class="direct-chat-infos clearfix">
+  549:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  550                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  551              </div>
+  ...
+  676            <div class="direct-chat-msg">
+  677              <div class="direct-chat-infos clearfix">
+  678:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  679                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  680              </div>
+  ...
+  696            <div class="direct-chat-msg">
+  697              <div class="direct-chat-infos clearfix">
+  698:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  699                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  700              </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\components\main-sidebar.md:
+   24        </div>
+   25        <div class="info">
+   26:         <a href="#" class="d-block">Alexander Pierce</a>
+   27        </div>
+   28      </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\calendar.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\gallery.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\kanban.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\widgets.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+  ...
+ 1884                    <div class="direct-chat-msg">
+ 1885                      <div class="direct-chat-infos clearfix">
+ 1886:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1887                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1888                      </div>
+ ....
+ 1981                    <div class="direct-chat-msg">
+ 1982                      <div class="direct-chat-infos clearfix">
+ 1983:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1984                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1985                      </div>
+ ....
+ 2078                    <div class="direct-chat-msg">
+ 2079                      <div class="direct-chat-infos clearfix">
+ 2080:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2081                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2082                      </div>
+ ....
+ 2175                    <div class="direct-chat-msg">
+ 2176                      <div class="direct-chat-infos clearfix">
+ 2177:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2178                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2179                      </div>
+ ....
+ 2277                    <div class="direct-chat-msg">
+ 2278                      <div class="direct-chat-infos clearfix">
+ 2279:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2280                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2281                      </div>
+ ....
+ 2374                    <div class="direct-chat-msg">
+ 2375                      <div class="direct-chat-infos clearfix">
+ 2376:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2377                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2378                      </div>
+ ....
+ 2471                    <div class="direct-chat-msg">
+ 2472                      <div class="direct-chat-infos clearfix">
+ 2473:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2474                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2475                      </div>
+ ....
+ 2568                    <div class="direct-chat-msg">
+ 2569                      <div class="direct-chat-infos clearfix">
+ 2570:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2571                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2572                      </div>
+ ....
+ 2689                <!-- Add the bg color to the header using any of the bg-* classes -->
+ 2690                <div class="widget-user-header bg-info">
+ 2691:                 <h3 class="widget-user-username">Alexander Pierce</h3>
+ 2692                  <h5 class="widget-user-desc">Founder & CEO</h5>
+ 2693                </div>
+ ....
+ 3015                <!-- Add the bg color to the header using any of the bg-* classes -->
+ 3016                <div class="widget-user-header bg-info">
+ 3017:                 <h3 class="widget-user-username">Alexander Pierce</h3>
+ 3018                  <h5 class="widget-user-desc">Founder & CEO</h5>
+ 3019                </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\chartjs.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\flot.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\inline.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\uplot.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\404.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\500.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\blank.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contact-us.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contacts.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\e-commerce.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\faq.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\invoice.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\legacy-user-menu.html:
+  143          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+  144            <img src="../../dist/img/user2-160x160.jpg" class="user-image img-circle elevation-2" alt="User Image">
+  145:           <span class="d-none d-md-inline">Alexander Pierce</span>
+  146          </a>
+  147          <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+  ...
+  151  
+  152              <p>
+  153:               Alexander Pierce - Web Developer
+  154                <small>Member since Nov. 2012</small>
+  155              </p>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\pace.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\profile.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-add.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-detail.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-edit.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\projects.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\advanced.html:
+  186          </div>
+  187          <div class="info">
+  188:           <a href="#" class="d-block">Alexander Pierce</a>
+  189          </div>
+  190        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\editors.html:
+  176          </div>
+  177          <div class="info">
+  178:           <a href="#" class="d-block">Alexander Pierce</a>
+  179          </div>
+  180        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\general.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\validation.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\boxed.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\collapsed-sidebar.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-footer.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar-custom.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-topnav.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\top-nav-sidebar.html:
+  205          </div>
+  206          <div class="info">
+  207:           <a href="#" class="d-block">Alexander Pierce</a>
+  208          </div>
+  209        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\compose.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\mailbox.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+  ...
+  998                      </td>
+  999                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1000:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1001                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1002                      </td>
+ ....
+ 1012                      </td>
+ 1013                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1014:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1015                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1016                      </td>
+ ....
+ 1026                      </td>
+ 1027                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1028:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1029                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1030                      </td>
+ ....
+ 1040                      </td>
+ 1041                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1042:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1043                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1044                      </td>
+ ....
+ 1054                      </td>
+ 1055                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1056:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1057                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1058                      </td>
+ ....
+ 1068                      </td>
+ 1069                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1070:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1071                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1072                      </td>
+ ....
+ 1082                      </td>
+ 1083                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1084:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1085                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1086                      </td>
+ ....
+ 1096                      </td>
+ 1097                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1098:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1099                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1100                      </td>
+ ....
+ 1110                      </td>
+ 1111                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1112:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1113                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1114                      </td>
+ ....
+ 1124                      </td>
+ 1125                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1126:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1127                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1128                      </td>
+ ....
+ 1138                      </td>
+ 1139                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1140:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1141                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1142                      </td>
+ ....
+ 1152                      </td>
+ 1153                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1154:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1155                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1156                      </td>
+ ....
+ 1166                      </td>
+ 1167                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1168:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1169                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1170                      </td>
+ ....
+ 1180                      </td>
+ 1181                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1182:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1183                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1184                      </td>
+ ....
+ 1194                      </td>
+ 1195                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1196:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1197                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1198                      </td>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\read-mail.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced-results.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple-results.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\data.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\jsgrid.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\simple.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+  ...
+ 1168                      <tr>
+ 1169                        <td>219</td>
+ 1170:                       <td>Alexander Pierce</td>
+ 1171                        <td>11-7-2014</td>
+ 1172                        <td><span class="tag tag-warning">Pending</span></td>
+ ....
+ 1236                      <tr>
+ 1237                        <td>219</td>
+ 1238:                       <td>Alexander Pierce</td>
+ 1239                        <td>11-7-2014</td>
+ 1240                        <td><span class="tag tag-warning">Pending</span></td>
+ ....
+ 1327                      <tr data-widget="expandable-table" aria-expanded="true">
+ 1328                        <td>219</td>
+ 1329:                       <td>Alexander Pierce</td>
+ 1330                        <td>11-7-2014</td>
+ 1331                        <td>Pending</td>
+ ....
+ 1341                      <tr data-widget="expandable-table" aria-expanded="true">
+ 1342                        <td>657</td>
+ 1343:                       <td>Alexander Pierce</td>
+ 1344                        <td>11-7-2014</td>
+ 1345                        <td>Approved</td>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\buttons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\general.html:
+  213          </div>
+  214          <div class="info">
+  215:           <a href="#" class="d-block">Alexander Pierce</a>
+  216          </div>
+  217        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\icons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\modals.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\navbar.html:
+  175          </div>
+  176          <div class="info">
+  177:           <a href="#" class="d-block">Alexander Pierce</a>
+  178          </div>
+  179        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\ribbons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\sliders.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\timeline.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+105 matches across 60 files
+
+
+Searching 2271 files for "Alexander Pierce"
+
+C:\xampp\htdocs\billing\AdminLTE-master\iframe.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index.html:
+  189          </div>
+  190          <div class="info">
+  191:           <a href="#" class="d-block">Alexander Pierce</a>
+  192          </div>
+  193        </div>
+  ...
+  997                    <div class="direct-chat-msg">
+  998                      <div class="direct-chat-infos clearfix">
+  999:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1000                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1001                      </div>
+ ....
+ 1029                    <div class="direct-chat-msg">
+ 1030                      <div class="direct-chat-infos clearfix">
+ 1031:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1032                        <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+ 1033                      </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index2.html:
+  177          </div>
+  178          <div class="info">
+  179:           <a href="#" class="d-block">Alexander Pierce</a>
+  180          </div>
+  181        </div>
+  ...
+ 1138                        <div class="direct-chat-msg">
+ 1139                          <div class="direct-chat-infos clearfix">
+ 1140:                           <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1141                            <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1142                          </div>
+ ....
+ 1170                        <div class="direct-chat-msg">
+ 1171                          <div class="direct-chat-infos clearfix">
+ 1172:                           <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1173                            <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+ 1174                          </div>
+ ....
+ 1338                        <li>
+ 1339                          <img src="dist/img/user1-128x128.jpg" alt="User Image">
+ 1340:                         <a class="users-list-name" href="#">Alexander Pierce</a>
+ 1341                          <span class="users-list-date">Today</span>
+ 1342                        </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index3.html:
+  180          </div>
+  181          <div class="info">
+  182:           <a href="#" class="d-block">Alexander Pierce</a>
+  183          </div>
+  184        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\starter.html:
+  174          </div>
+  175          <div class="info">
+  176:           <a href="#" class="d-block">Alexander Pierce</a>
+  177          </div>
+  178        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\upgrade-guide.md:
+   36    - `<section class="sidebar">` replaced with `<div class="sidebar">`
+   37  4. User Panel
+   38:   - `<div class="user-panel"><div class="pull-left image"><img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image"></div><div class="pull-left info"><p>Alexander Pierce</p><a href="#"><i class="fa fa-circle text-success"></i> Online</a></div></div>` replaced with `<div class="user-panel mt-3 pb-3 mb-3 d-flex"><div class="image"><img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image"></div><div class="info"><a href="#" class="d-block">Alexander Pierce</a></div></div>`
+   39  5. Sidebar Menu
+   40    - `<nav class="mt-2">` now around `<ul class="sidebar-menu" data-widget="tree">`
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\components\direct-chat.md:
+   27            <div class="direct-chat-msg">
+   28              <div class="direct-chat-infos clearfix">
+   29:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+   30                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+   31              </div>
+   ..
+   47            <div class="direct-chat-msg">
+   48              <div class="direct-chat-infos clearfix">
+   49:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+   50                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+   51              </div>
+   ..
+  176            <div class="direct-chat-msg">
+  177              <div class="direct-chat-infos clearfix">
+  178:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  179                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  180              </div>
+  ...
+  196            <div class="direct-chat-msg">
+  197              <div class="direct-chat-infos clearfix">
+  198:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  199                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  200              </div>
+  ...
+  333        <div class="direct-chat-msg">
+  334          <div class="direct-chat-infos clearfix">
+  335:           <span class="direct-chat-name float-left">Alexander Pierce</span>
+  336            <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  337          </div>
+  ...
+  363        <div class="direct-chat-msg">
+  364          <div class="direct-chat-infos clearfix">
+  365:           <span class="direct-chat-name float-left">Alexander Pierce</span>
+  366            <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  367          </div>
+  ...
+  527            <div class="direct-chat-msg">
+  528              <div class="direct-chat-infos clearfix">
+  529:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  530                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  531              </div>
+  ...
+  547            <div class="direct-chat-msg">
+  548              <div class="direct-chat-infos clearfix">
+  549:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  550                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  551              </div>
+  ...
+  676            <div class="direct-chat-msg">
+  677              <div class="direct-chat-infos clearfix">
+  678:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  679                <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+  680              </div>
+  ...
+  696            <div class="direct-chat-msg">
+  697              <div class="direct-chat-infos clearfix">
+  698:               <span class="direct-chat-name float-left">Alexander Pierce</span>
+  699                <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
+  700              </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\components\main-sidebar.md:
+   24        </div>
+   25        <div class="info">
+   26:         <a href="#" class="d-block">Alexander Pierce</a>
+   27        </div>
+   28      </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\calendar.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\gallery.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\kanban.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\widgets.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+  ...
+ 1884                    <div class="direct-chat-msg">
+ 1885                      <div class="direct-chat-infos clearfix">
+ 1886:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1887                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1888                      </div>
+ ....
+ 1981                    <div class="direct-chat-msg">
+ 1982                      <div class="direct-chat-infos clearfix">
+ 1983:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 1984                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 1985                      </div>
+ ....
+ 2078                    <div class="direct-chat-msg">
+ 2079                      <div class="direct-chat-infos clearfix">
+ 2080:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2081                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2082                      </div>
+ ....
+ 2175                    <div class="direct-chat-msg">
+ 2176                      <div class="direct-chat-infos clearfix">
+ 2177:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2178                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2179                      </div>
+ ....
+ 2277                    <div class="direct-chat-msg">
+ 2278                      <div class="direct-chat-infos clearfix">
+ 2279:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2280                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2281                      </div>
+ ....
+ 2374                    <div class="direct-chat-msg">
+ 2375                      <div class="direct-chat-infos clearfix">
+ 2376:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2377                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2378                      </div>
+ ....
+ 2471                    <div class="direct-chat-msg">
+ 2472                      <div class="direct-chat-infos clearfix">
+ 2473:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2474                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2475                      </div>
+ ....
+ 2568                    <div class="direct-chat-msg">
+ 2569                      <div class="direct-chat-infos clearfix">
+ 2570:                       <span class="direct-chat-name float-left">Alexander Pierce</span>
+ 2571                        <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
+ 2572                      </div>
+ ....
+ 2689                <!-- Add the bg color to the header using any of the bg-* classes -->
+ 2690                <div class="widget-user-header bg-info">
+ 2691:                 <h3 class="widget-user-username">Alexander Pierce</h3>
+ 2692                  <h5 class="widget-user-desc">Founder & CEO</h5>
+ 2693                </div>
+ ....
+ 3015                <!-- Add the bg color to the header using any of the bg-* classes -->
+ 3016                <div class="widget-user-header bg-info">
+ 3017:                 <h3 class="widget-user-username">Alexander Pierce</h3>
+ 3018                  <h5 class="widget-user-desc">Founder & CEO</h5>
+ 3019                </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\chartjs.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\flot.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\inline.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\uplot.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\404.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\500.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\blank.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contact-us.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contacts.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\e-commerce.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\faq.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\invoice.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\legacy-user-menu.html:
+  143          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+  144            <img src="../../dist/img/user2-160x160.jpg" class="user-image img-circle elevation-2" alt="User Image">
+  145:           <span class="d-none d-md-inline">Alexander Pierce</span>
+  146          </a>
+  147          <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
+  ...
+  151  
+  152              <p>
+  153:               Alexander Pierce - Web Developer
+  154                <small>Member since Nov. 2012</small>
+  155              </p>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\pace.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\profile.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-add.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-detail.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-edit.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\projects.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\advanced.html:
+  186          </div>
+  187          <div class="info">
+  188:           <a href="#" class="d-block">Alexander Pierce</a>
+  189          </div>
+  190        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\editors.html:
+  176          </div>
+  177          <div class="info">
+  178:           <a href="#" class="d-block">Alexander Pierce</a>
+  179          </div>
+  180        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\general.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\validation.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\boxed.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\collapsed-sidebar.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-footer.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar-custom.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-topnav.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\top-nav-sidebar.html:
+  205          </div>
+  206          <div class="info">
+  207:           <a href="#" class="d-block">Alexander Pierce</a>
+  208          </div>
+  209        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\compose.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\mailbox.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+  ...
+  998                      </td>
+  999                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1000:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1001                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1002                      </td>
+ ....
+ 1012                      </td>
+ 1013                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1014:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1015                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1016                      </td>
+ ....
+ 1026                      </td>
+ 1027                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1028:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1029                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1030                      </td>
+ ....
+ 1040                      </td>
+ 1041                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1042:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1043                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1044                      </td>
+ ....
+ 1054                      </td>
+ 1055                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1056:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1057                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1058                      </td>
+ ....
+ 1068                      </td>
+ 1069                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1070:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1071                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1072                      </td>
+ ....
+ 1082                      </td>
+ 1083                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1084:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1085                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1086                      </td>
+ ....
+ 1096                      </td>
+ 1097                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1098:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1099                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1100                      </td>
+ ....
+ 1110                      </td>
+ 1111                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1112:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1113                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1114                      </td>
+ ....
+ 1124                      </td>
+ 1125                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1126:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1127                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1128                      </td>
+ ....
+ 1138                      </td>
+ 1139                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1140:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1141                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1142                      </td>
+ ....
+ 1152                      </td>
+ 1153                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1154:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1155                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1156                      </td>
+ ....
+ 1166                      </td>
+ 1167                      <td class="mailbox-star"><a href="#"><i class="fas fa-star-o text-warning"></i></a></td>
+ 1168:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1169                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1170                      </td>
+ ....
+ 1180                      </td>
+ 1181                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1182:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1183                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1184                      </td>
+ ....
+ 1194                      </td>
+ 1195                      <td class="mailbox-star"><a href="#"><i class="fas fa-star text-warning"></i></a></td>
+ 1196:                     <td class="mailbox-name"><a href="read-mail.html">Alexander Pierce</a></td>
+ 1197                      <td class="mailbox-subject"><b>AdminLTE 3.0 Issue</b> - Trying to find a solution to this problem...
+ 1198                      </td>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\read-mail.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced-results.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced.html:
+  171          </div>
+  172          <div class="info">
+  173:           <a href="#" class="d-block">Alexander Pierce</a>
+  174          </div>
+  175        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple-results.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\data.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\jsgrid.html:
+  172          </div>
+  173          <div class="info">
+  174:           <a href="#" class="d-block">Alexander Pierce</a>
+  175          </div>
+  176        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\simple.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+  ...
+ 1168                      <tr>
+ 1169                        <td>219</td>
+ 1170:                       <td>Alexander Pierce</td>
+ 1171                        <td>11-7-2014</td>
+ 1172                        <td><span class="tag tag-warning">Pending</span></td>
+ ....
+ 1236                      <tr>
+ 1237                        <td>219</td>
+ 1238:                       <td>Alexander Pierce</td>
+ 1239                        <td>11-7-2014</td>
+ 1240                        <td><span class="tag tag-warning">Pending</span></td>
+ ....
+ 1327                      <tr data-widget="expandable-table" aria-expanded="true">
+ 1328                        <td>219</td>
+ 1329:                       <td>Alexander Pierce</td>
+ 1330                        <td>11-7-2014</td>
+ 1331                        <td>Pending</td>
+ ....
+ 1341                      <tr data-widget="expandable-table" aria-expanded="true">
+ 1342                        <td>657</td>
+ 1343:                       <td>Alexander Pierce</td>
+ 1344                        <td>11-7-2014</td>
+ 1345                        <td>Approved</td>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\buttons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\general.html:
+  213          </div>
+  214          <div class="info">
+  215:           <a href="#" class="d-block">Alexander Pierce</a>
+  216          </div>
+  217        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\icons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\modals.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\navbar.html:
+  175          </div>
+  176          <div class="info">
+  177:           <a href="#" class="d-block">Alexander Pierce</a>
+  178          </div>
+  179        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\ribbons.html:
+  169          </div>
+  170          <div class="info">
+  171:           <a href="#" class="d-block">Alexander Pierce</a>
+  172          </div>
+  173        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\sliders.html:
+  173          </div>
+  174          <div class="info">
+  175:           <a href="#" class="d-block">Alexander Pierce</a>
+  176          </div>
+  177        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\timeline.html:
+  170          </div>
+  171          <div class="info">
+  172:           <a href="#" class="d-block">Alexander Pierce</a>
+  173          </div>
+  174        </div>
+
+105 matches across 60 files
+
+
+Searching 2271 files for "dashboard v2"
+
+C:\xampp\htdocs\billing\AdminLTE-master\iframe.html:
+  211                  <a href="./index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index.html:
+  228                  <a href="./index2.html" class="nav-link">
+  229                    <i class="far fa-circle nav-icon"></i>
+  230:                   <p>Dashboard v2</p>
+  231                  </a>
+  232                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index2.html:
+  216                  <a href="./index2.html" class="nav-link active">
+  217                    <i class="far fa-circle nav-icon"></i>
+  218:                   <p>Dashboard v2</p>
+  219                  </a>
+  220                </li>
+  ...
+  843          <div class="row mb-2">
+  844            <div class="col-sm-6">
+  845:             <h1 class="m-0">Dashboard v2</h1>
+  846            </div><!-- /.col -->
+  847            <div class="col-sm-6">
+  848              <ol class="breadcrumb float-sm-right">
+  849                <li class="breadcrumb-item"><a href="#">Home</a></li>
+  850:               <li class="breadcrumb-item active">Dashboard v2</li>
+  851              </ol>
+  852            </div><!-- /.col -->
+
+C:\xampp\htdocs\billing\AdminLTE-master\index3.html:
+  219                  <a href="./index2.html" class="nav-link">
+  220                    <i class="far fa-circle nav-icon"></i>
+  221:                   <p>Dashboard v2</p>
+  222                  </a>
+  223                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\calendar.html:
+  210                  <a href="../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\gallery.html:
+  210                  <a href="../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\kanban.html:
+  212                  <a href="../index2.html" class="nav-link">
+  213                    <i class="far fa-circle nav-icon"></i>
+  214:                   <p>Dashboard v2</p>
+  215                  </a>
+  216                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\widgets.html:
+  210                  <a href="../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\chartjs.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\flot.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\inline.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\uplot.html:
+  211                  <a href="../../index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\404.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\500.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\blank.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contact-us.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contacts.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\e-commerce.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\faq.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\invoice.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\language-menu.html:
+  221                  <a href="../../index2.html" class="nav-link">
+  222                    <i class="far fa-circle nav-icon"></i>
+  223:                   <p>Dashboard v2</p>
+  224                  </a>
+  225                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\legacy-user-menu.html:
+  236                  <a href="../../index2.html" class="nav-link">
+  237                    <i class="far fa-circle nav-icon"></i>
+  238:                   <p>Dashboard v2</p>
+  239                  </a>
+  240                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\pace.html:
+  211                  <a href="../../index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\profile.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-add.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-detail.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-edit.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\projects.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\advanced.html:
+  225                  <a href="../../index2.html" class="nav-link">
+  226                    <i class="far fa-circle nav-icon"></i>
+  227:                   <p>Dashboard v2</p>
+  228                  </a>
+  229                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\editors.html:
+  215                  <a href="../../index2.html" class="nav-link">
+  216                    <i class="far fa-circle nav-icon"></i>
+  217:                   <p>Dashboard v2</p>
+  218                  </a>
+  219                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\general.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\validation.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\boxed.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\collapsed-sidebar.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-footer.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar-custom.html:
+  211                  <a href="../../index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar.html:
+  211                  <a href="../../index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-topnav.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\top-nav-sidebar.html:
+  244                  <a href="../../index2.html" class="nav-link">
+  245                    <i class="far fa-circle nav-icon"></i>
+  246:                   <p>Dashboard v2</p>
+  247                  </a>
+  248                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\compose.html:
+  210                  <a href="../../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\mailbox.html:
+  210                  <a href="../../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\read-mail.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced-results.html:
+  210                  <a href="../../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced.html:
+  210                  <a href="../../index2.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v2</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple-results.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\data.html:
+  212                  <a href="../../index2.html" class="nav-link">
+  213                    <i class="far fa-circle nav-icon"></i>
+  214:                   <p>Dashboard v2</p>
+  215                  </a>
+  216                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\jsgrid.html:
+  211                  <a href="../../index2.html" class="nav-link">
+  212                    <i class="far fa-circle nav-icon"></i>
+  213:                   <p>Dashboard v2</p>
+  214                  </a>
+  215                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\simple.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\buttons.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\general.html:
+  252                  <a href="../../index2.html" class="nav-link">
+  253                    <i class="far fa-circle nav-icon"></i>
+  254:                   <p>Dashboard v2</p>
+  255                  </a>
+  256                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\icons.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\modals.html:
+  212                  <a href="../../index2.html" class="nav-link">
+  213                    <i class="far fa-circle nav-icon"></i>
+  214:                   <p>Dashboard v2</p>
+  215                  </a>
+  216                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\navbar.html:
+  214                  <a href="../../index2.html" class="nav-link">
+  215                    <i class="far fa-circle nav-icon"></i>
+  216:                   <p>Dashboard v2</p>
+  217                  </a>
+  218                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\ribbons.html:
+  208                  <a href="../../index2.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v2</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\sliders.html:
+  212                  <a href="../../index2.html" class="nav-link">
+  213                    <i class="far fa-circle nav-icon"></i>
+  214:                   <p>Dashboard v2</p>
+  215                  </a>
+  216                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\timeline.html:
+  209                  <a href="../../index2.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v2</p>
+  212                  </a>
+  213                </li>
+
+59 matches across 57 files
+
+
+Searching 2271 files for "Dashboard v1"
+
+C:\xampp\htdocs\billing\AdminLTE-master\iframe.html:
+  205                  <a href="./index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index.html:
+  222                  <a href="./index.html" class="nav-link active">
+  223                    <i class="far fa-circle nav-icon"></i>
+  224:                   <p>Dashboard v1</p>
+  225                  </a>
+  226                </li>
+  ...
+  860              <ol class="breadcrumb float-sm-right">
+  861                <li class="breadcrumb-item"><a href="#">Home</a></li>
+  862:               <li class="breadcrumb-item active">Dashboard v1</li>
+  863              </ol>
+  864            </div><!-- /.col -->
+
+C:\xampp\htdocs\billing\AdminLTE-master\index2.html:
+  210                  <a href="./index.html" class="nav-link">
+  211                    <i class="far fa-circle nav-icon"></i>
+  212:                   <p>Dashboard v1</p>
+  213                  </a>
+  214                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\index3.html:
+  213                  <a href="./index.html" class="nav-link">
+  214                    <i class="far fa-circle nav-icon"></i>
+  215:                   <p>Dashboard v1</p>
+  216                  </a>
+  217                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\upgrade-guide.md:
+   94    <ul class="treeview-menu">
+   95      <li class="active"><a href="index.html">
+   96:       <i class="fa fa-circle-o"></i> Dashboard v1</a>
+   97      </li>
+   98    </ul>
+   ..
+  115        <a href="index.html" class="nav-link active">
+  116          <i class="far fa-circle nav-icon"></i>
+  117:         <p>Dashboard v1</p>
+  118        </a>
+  119      </li>
+  ...
+  167          <ol class="breadcrumb float-sm-right">
+  168            <li class="breadcrumb-item"><a href="#">Home</a></li>
+  169:           <li class="breadcrumb-item active">Dashboard v1</li>
+  170          </ol>
+  171        </div>
+
+C:\xampp\htdocs\billing\AdminLTE-master\docs\javascript\iframe.md:
+   35      <a class="nav-link bg-light" href="#" data-widget="iframe-scrollleft"><i class="fas fa-angle-double-left"></i></a>
+   36      <ul class="navbar-nav" role="tablist">
+   37:       <li class="nav-item active" role="presentation"><a class="nav-link active" data-toggle="row" id="tab-index" href="#panel-index" role="tab" aria-controls="panel-index" aria-selected="true">Dashboard v1</a></li>
+   38      </ul>
+   39      <a class="nav-link bg-light" href="#" data-widget="iframe-scrollright"><i class="fas fa-angle-double-right"></i></a>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\calendar.html:
+  204                  <a href="../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\gallery.html:
+  204                  <a href="../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\kanban.html:
+  206                  <a href="../index.html" class="nav-link">
+  207                    <i class="far fa-circle nav-icon"></i>
+  208:                   <p>Dashboard v1</p>
+  209                  </a>
+  210                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\widgets.html:
+  204                  <a href="../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\chartjs.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\flot.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\inline.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\charts\uplot.html:
+  205                  <a href="../../index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\404.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\500.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\blank.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contact-us.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\contacts.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\e-commerce.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\faq.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\invoice.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\language-menu.html:
+  215                  <a href="../../index.html" class="nav-link">
+  216                    <i class="far fa-circle nav-icon"></i>
+  217:                   <p>Dashboard v1</p>
+  218                  </a>
+  219                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\legacy-user-menu.html:
+  230                  <a href="../../index.html" class="nav-link">
+  231                    <i class="far fa-circle nav-icon"></i>
+  232:                   <p>Dashboard v1</p>
+  233                  </a>
+  234                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\pace.html:
+  205                  <a href="../../index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\profile.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-add.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-detail.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\project-edit.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\examples\projects.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\advanced.html:
+  219                  <a href="../../index.html" class="nav-link">
+  220                    <i class="far fa-circle nav-icon"></i>
+  221:                   <p>Dashboard v1</p>
+  222                  </a>
+  223                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\editors.html:
+  209                  <a href="../../index.html" class="nav-link">
+  210                    <i class="far fa-circle nav-icon"></i>
+  211:                   <p>Dashboard v1</p>
+  212                  </a>
+  213                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\general.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\forms\validation.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\boxed.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\collapsed-sidebar.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-footer.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar-custom.html:
+  205                  <a href="../../index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-sidebar.html:
+  205                  <a href="../../index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\fixed-topnav.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\layout\top-nav-sidebar.html:
+  238                  <a href="../../index.html" class="nav-link">
+  239                    <i class="far fa-circle nav-icon"></i>
+  240:                   <p>Dashboard v1</p>
+  241                  </a>
+  242                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\compose.html:
+  204                  <a href="../../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\mailbox.html:
+  204                  <a href="../../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\mailbox\read-mail.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced-results.html:
+  204                  <a href="../../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\enhanced.html:
+  204                  <a href="../../index.html" class="nav-link">
+  205                    <i class="far fa-circle nav-icon"></i>
+  206:                   <p>Dashboard v1</p>
+  207                  </a>
+  208                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple-results.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\search\simple.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\data.html:
+  206                  <a href="../../index.html" class="nav-link">
+  207                    <i class="far fa-circle nav-icon"></i>
+  208:                   <p>Dashboard v1</p>
+  209                  </a>
+  210                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\jsgrid.html:
+  205                  <a href="../../index.html" class="nav-link">
+  206                    <i class="far fa-circle nav-icon"></i>
+  207:                   <p>Dashboard v1</p>
+  208                  </a>
+  209                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\tables\simple.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\buttons.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\general.html:
+  246                  <a href="../../index.html" class="nav-link">
+  247                    <i class="far fa-circle nav-icon"></i>
+  248:                   <p>Dashboard v1</p>
+  249                  </a>
+  250                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\icons.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\modals.html:
+  206                  <a href="../../index.html" class="nav-link">
+  207                    <i class="far fa-circle nav-icon"></i>
+  208:                   <p>Dashboard v1</p>
+  209                  </a>
+  210                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\navbar.html:
+  208                  <a href="../../index.html" class="nav-link">
+  209                    <i class="far fa-circle nav-icon"></i>
+  210:                   <p>Dashboard v1</p>
+  211                  </a>
+  212                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\ribbons.html:
+  202                  <a href="../../index.html" class="nav-link">
+  203                    <i class="far fa-circle nav-icon"></i>
+  204:                   <p>Dashboard v1</p>
+  205                  </a>
+  206                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\sliders.html:
+  206                  <a href="../../index.html" class="nav-link">
+  207                    <i class="far fa-circle nav-icon"></i>
+  208:                   <p>Dashboard v1</p>
+  209                  </a>
+  210                </li>
+
+C:\xampp\htdocs\billing\AdminLTE-master\pages\UI\timeline.html:
+  203                  <a href="../../index.html" class="nav-link">
+  204                    <i class="far fa-circle nav-icon"></i>
+  205:                   <p>Dashboard v1</p>
+  206                  </a>
+  207                </li>
+
+62 matches across 59 files

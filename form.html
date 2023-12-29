@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pengisian User dan Password</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            margin-top: 20px;
+            text-align: left;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        input,
+        select,
+        button {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4caf50;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Form Pengisian User dan Password</h2>
+
+    <form action="insert.php" method="post">
+        <label for="pppoeUser">PPPoe User:</label>
+        <input type="text" id="pppoeUser" name="pppoeUser" required>
+
+        <label for="pppoePassword">PPPoe Password:</label>
+        <input type="password" id="pppoePassword" name="pppoePassword" required>
+
+        <label for="profile">Profil:</label>
+        <select id="profile" name="profile" required>
+            <option value="2M_Profile">2M_Profile</option>
+            <option value="5M_Profile">5M_Profile</option>
+            <option value="10M_Profile">10M_Profile</option>
+            <option value="15M_Profile">15M_Profile</option>
+            <option value="20M_Profile">20M_Profile</option>
+        </select>
+
+        <label for="expirationDate">Tanggal Expiration:</label>
+        <input type="date" id="expirationDate" name="expirationDate" required>
+
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
